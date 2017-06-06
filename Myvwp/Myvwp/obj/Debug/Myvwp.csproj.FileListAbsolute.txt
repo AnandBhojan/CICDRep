@@ -1,0 +1,4 @@
+C:\Testproj\CICDRep\Myvwp\Myvwp\bin\Debug\Myvwp.dll
+C:\Testproj\CICDRep\Myvwp\Myvwp\bin\Debug\Myvwp.pdb
+C:\Testproj\CICDRep\Myvwp\Myvwp\obj\Debug\Myvwp.dll
+C:\Testproj\CICDRep\Myvwp\Myvwp\obj\Debug\Myvwp.pdb

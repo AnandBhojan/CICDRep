@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="420de4f1-968a-4d28-afe2-be6318af6ab0" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Myvwp.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Myvwp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
